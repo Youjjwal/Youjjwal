@@ -33,19 +33,6 @@ Open to DevOps Intern / Junior DevOps Engineer opportunities
 
 🔹 Automation Scripts – Bash & Python for repetitive operational tasks
 
-🎯 Career Objective
-
-To start my professional journey as a DevOps Engineer, contributing to automation, cloud infrastructure, and CI/CD systems while continuously learning from real-world production environments.
-
-📫 Connect With Me
-
-📧 Email: ghoost1969@gmail.com
-
-💼 LinkedIn: https://linkedin.com
-
-🌐 GitHub: https://github.com/Youjjwal
-
-⚙️ Building reliable systems. Automating everything. Learning every day.
 
 
 Linux → Docker → Git → CI/CD → AWS → Terraform → Kubernetes.
@@ -62,80 +49,14 @@ Linux → Docker → Git → CI/CD → AWS → Terraform → Kubernetes.
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="60"/>
   <img src="https://skillicons.dev/icons?i=bash" title="Bash Scripting" width="60"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python Automation" width="60"/>
-</p>
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"
-     title="Containerization"
-     width="55"/>
+  
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+ </p>
 
-
-## 🚀 Featured DevOps Projects
-
-- 🔹 Linux Automation Scripts (users, cron, logs)
-- 🔹 Dockerized Python Application
-- 🔹 CI/CD Pipeline using GitHub Actions
-- 🔹 AWS EC2 Deployment with IAM & Security
-
-
-## 🛠️ DevOps Skills
-
-### Operating Systems & Scripting
-
-* Linux (Ubuntu)
-* Bash Scripting
-* Python (Automation)
-
-### DevOps & Cloud Tools
-
-* Git & GitHub
-* Docker & Docker Compose
-* GitHub Actions (CI/CD)
-* AWS (EC2, IAM, S3)
-* Nginx (Basics)
-
-### Concepts
-
-* CI/CD Pipelines
-* Infrastructure Automation
-* Version Control
-* Basic Cloud Security
-
----
-
-## 📂 Featured DevOps Projects
-
-### 🔹 Linux DevOps Labs
-
-* User & permission management
-* Cron jobs & automation
-* Log monitoring & system maintenance
-
-### 🔹 Dockerized Applications
-
-* Python application containerization
-* Multi-stage Docker builds
-* Docker Compose setup
-
-### 🔹 CI/CD with GitHub Actions
-
-* Automated build & test pipelines
-* Docker image build & push
-* Workflow automation
-
-### 🔹 AWS DevOps Basics
-
-* EC2 instance deployment
-* IAM roles & permissions
-* S3 static hosting
-
----
-
-## 📈 Learning & Growth
-
-* 📘 Continuously learning DevOps best practices
-* 🧪 Building real-world projects
-* 🗂 Maintaining DevOps notes & documentation
-
----
 
 ## 🎯 Career Objective
 
