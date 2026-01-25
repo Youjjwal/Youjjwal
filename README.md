@@ -67,8 +67,8 @@ To work as a **DevOps Engineer** where I can contribute to automation, cloud inf
 ## 📫 Connect With Me
 
 * 📧 Email: [iamkashyup@gmail.com](mailto:iamkashyup@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/youjjwal/)
-* 🌐 GitHub: [https://github.com/Youjjwal](https://github.com/Youjjwal)
+* 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/youjjwal/)
+* 🌐 GitHub: [Github](https://github.com/Youjjwal)
 
 ---
 
