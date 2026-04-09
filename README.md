@@ -1,75 +1,78 @@
-# 👋 Hi, I'm Ujjwal
+<div align="center">
 
-🚀 DevOps Engineer (Fresher) | Linux • AWS • Docker • CI/CD • GitHub Actions
+<img src="https://capsule-render.vercel.app/v3/api/letter?text=Ujjwal&font=Inter&weight=900&size=90&color=0A66C2&background=0F172A&stroke=1E40AF&strokeWidth=3" width="100%" alt="Header Banner"/>
 
-DevOps-focused engineer from India, actively following the 90 Days of DevOps learning path with hands-on practice across Linux, cloud, containers, CI/CD, and automation. I focus on building reliable, automated, and scalable systems using modern DevOps tools and best practices.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=720&lines=DevOps+Engineer;Cloud+Native+Architect;Automation+First;Building+Scalable+Systems;Production+Ready+Always" alt="Animated Typing"/>
 
-🧑‍💻 About Me
+<br><br>
 
-Strong foundation in Linux system administration and networking basics
+[![GitHub Followers](https://img.shields.io/github/followers/Youjjwal?style=for-the-badge&logo=github&color=0A66C2&logoColor=white)](https://github.com/Youjjwal)
+[![GitHub Stars](https://img.shields.io/github/stars/Youjjwal?style=for-the-badge&logo=github&color=FFD700&logoColor=white)](https://github.com/Youjjwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Youjjwal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://uzwal.netlify.app)
 
-Hands-on experience with Docker, containerized applications, and Docker Compose
-
-Practical knowledge of CI/CD pipelines using GitHub Actions
-
-Cloud fundamentals with AWS (EC2, IAM, S3)
-
-Automation using Bash & Python
-
-Continuous learner following a structured DevOps roadmap (90 Days of DevOps)
-
-Open to DevOps Intern / Junior DevOps Engineer opportunities
-
-
-🚀 DevOps Projects (Hands-on)
-
-🔹 Linux DevOps Labs – User management, permissions, cron jobs, logs & monitoring
-
-🔹 Dockerized Applications – Python apps with Docker & Docker Compose
-
-🔹 CI/CD Pipelines – Build, test, and deploy automation using GitHub Actions
-
-🔹 AWS Cloud Basics – EC2 deployments, IAM roles, S3 static hosting
-
-🔹 Automation Scripts – Bash & Python for repetitive operational tasks
-
-
-
-Linux → Docker → Git → CI/CD → AWS → Terraform → Kubernetes.
-
-## ☁️ Cloud & DevOps Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" width="60"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="60"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" width="60"/>
-  <img src="https://skillicons.dev/icons?i=terraform" title="Terraform" width="60"/>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="60"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" width="60"/>
-  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" width="60"/>
-  <img src="https://skillicons.dev/icons?i=bash" title="Bash Scripting" width="60"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python Automation" width="60"/>
-  
-![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
- </p>
-
-
-## 🎯 Career Objective
-
-To work as a **DevOps Engineer** where I can contribute to automation, cloud infrastructure, and continuous delivery while learning from real-world production systems.
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 👨‍💻 About Me
 
-* 📧 Email: [iamkashyup@gmail.com](mailto:iamkashyup@gmail.com)
-* 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/youjjwal/)
-* 🌐 GitHub: [Github](https://github.com/Youjjwal)
+**DevOps Engineer** passionate about building **reliable, scalable, and fully automated** infrastructure. Turning complex systems into simple, observable, and self-healing platforms.
+
+### 🔥 Core Focus
+- Automation-First Culture
+- Zero-Downtime Deployments  
+- GitOps & Internal Developer Platforms
+- Observability & Reliability Engineering
 
 ---
 
-*⚙️ Building reliable systems. Automating everything. Learning every day.*
+## 🛰️ Live Status
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Live-brightgreen?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-Production-FF9900?style=for-the-badge&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Ready-326CE5?style=for-the-badge&logo=kubernetes)
+
+---
+
+## 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46817?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Youjjwal/Youjjwal/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youjjwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youjjwal&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</div>
+
+---
+
+<div align="center">
+
+**⚙️ Build Systems That Scale**  
+**🚀 Automate Everything**  
+**🔥 Stay Production Ready**
+
+</div>
+
+---
+
+<div align="center">
+  Made with ❤️ & ☕ for clean & reliable infrastructure
+</div>
