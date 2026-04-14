@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=UJJWAL&fontSize=80&color=0:00FFD1,50:7B2FBE,100:FF003C&fontColor=fff&stroke=00FFD1&strokeWidth=2&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20SRE%20%7C%20Cloud%20Native%20Architect&descSize=18&descAlignY=75" />
 
-<a href="https://github.com/Youjjwal"><img src="https://img.shields.io/badge/GitHub-Youjjwal-00FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D" /></a>
-<a href="https://linkedin.com/in/Youjjwal"><img src="https://img.shields.io/badge/LinkedIn-Youjjwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFD1&labelColor=0D0D0D" /></a>
-<a href="https://uzwal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-uzwal.netlify.app-FF003C?style=for-the-badge&logo=vercel&logoColor=FF003C&labelColor=0D0D0D" /></a>
+<a href="https://github.com/uxzwal"><img src="https://img.shields.io/badge/GitHub-Ujjwal-00FFD1?style=for-the-badge&logo=github&logoColor=00FFD1&labelColor=0D0D0D" /></a>
+<a href="https://linkedin.com/in/uxzwal"><img src="https://img.shields.io/badge/LinkedIn-Ujjwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFD1&labelColor=0D0D0D" /></a>
+<a href="https://uzwal.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF003C?style=for-the-badge&logo=vercel&logoColor=FF003C&labelColor=0D0D0D" /></a>
 <a href="https://t.me/uxzwal"><img src="https://img.shields.io/badge/Telegram-uxzwal-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0D0D0D" /></a>
 <a href="mailto:iamkashyup@gmail.com"><img src="https://img.shields.io/badge/Email-iamkashyup-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D0D0D" /></a>
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/UPTIME-99.99%25-00FFD1?style=flat-square&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/DORA-ELITE_TIER-7B2FBE?style=flat-square&labelColor=0D0D0D" />
 <img src="https://img.shields.io/badge/IaC-100%25_COVERAGE-FF003C?style=flat-square&labelColor=0D0D0D" />
-<img src="https://komarev.com/ghpvc/?username=Youjjwal&label=RECON+HITS&style=flat-square&color=00FFD1&labelColor=0D0D0D" />
+<img src="https://komarev.com/ghpvc/?username=uxzwal&label=RECON+HITS&style=flat-square&color=00FFD1&labelColor=0D0D0D" />
 
 </div>
 
@@ -24,7 +24,8 @@
 
 ```bash
 ┌──────────────────────────────────────┐
-│  ssh youjjwal@devops.nexus           │
+│  ssh U
+jjwal@devops.nexus           │
 ├──────────────────────────────────────┤
 │  > whoami                            │
 │  Ujjwal — Lead DevOps Engineer       │
@@ -179,12 +180,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Youjjwal&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=7B2FBE&text_color=8B949E&ring_color=00FFD1&include_all_commits=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Youjjwal&hide_border=true&background=FFFADA&stroke=00FFD1&ring=7B2FBE&fire=FF003C&currStreakLabel=000000&sideLabels=8B949E&dates=555555" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=uxzwal&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFD1&icon_color=7B2FBE&text_color=8B949E&ring_color=00FFD1&include_all_commits=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=uxzwal&hide_border=true&background=FFFADA&stroke=00FFD1&ring=7B2FBE&fire=FF003C&currStreakLabel=000000&sideLabels=8B949E&dates=555555" />
 
 <br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Youjjwal&theme=github-dark&bg_color=0D0D0D&hide_border=true&area=true&area_color=7B2FBE&point=00FFD1&line=00FFD1&color=8B949E" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=uxzwal&theme=github-dark&bg_color=0D0D0D&hide_border=true&area=true&area_color=7B2FBE&point=00FFD1&line=00FFD1&color=8B949E" />
 
 ## 🎖️ MANIFESTO
 
