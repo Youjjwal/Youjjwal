@@ -136,7 +136,7 @@ A **DevOps & Cloud Engineer** from Bihar, India — passionate about automating 
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://uzwal.netlify.app">
+<a href="https://uzwal.dev">
   <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
